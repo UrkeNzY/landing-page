@@ -76,3 +76,30 @@ a{
     font-weight: 900;
     color: white;
 }
+
+.second-section{
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+
+.second-section-title{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+
+.info-cards{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 475px;
+    text-align: center;
+}
+
+.card-image{
+    height: auto;
+    width: 200px;
+    border: 4.5px solid #3882F6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
